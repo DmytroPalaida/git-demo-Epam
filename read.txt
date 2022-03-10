@@ -1,5 +1,10 @@
 hello to my little friend
 my name is Dima
+<<<<<<< HEAD
 
 
 HHHHHHEEEEELLLLOOOO!@
+=======
+what is your name?
+
+>>>>>>> 289cba28408e0931dd4af4a1799a3a663d0ec737
